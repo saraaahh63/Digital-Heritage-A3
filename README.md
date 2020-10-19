@@ -1,5 +1,6 @@
 # Arhcitecture Design and Building Naming
 ## Humble Administrator's Garden
+#### Digital Heritage, Fall 2019
 #### Sarah, Greta, Joseph, Kevin
 
 Website: https://saraaahh63.github.io/DH-A3/
